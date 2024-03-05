@@ -16,13 +16,21 @@ Google Play: https://play.google.com/store/apps/details?id=com.coresaken.multipl
 📅 Begin your daily practice with our free multiplication tables games, and you'll quickly notice how effortlessly you'll be able to perform operations of this kind in no time.
 
 🔔 Features:
+
 ✅ Explore more than 9 diverse games and exercises, including activities like selecting the correct number, entering numerical values, combining numbers, and much more.
+
 ✅ The learning pathway for multiplication and division facilitates a seamless and accessible learning experience.
+
 ✅ After completing lessons and games, you can review all your answers.
+
 ✅ In this application, you can master multiplication tables up to 100, 200, and even 1000. There are no limits in this application.
+
 ✅ The app also has a 'Competition Mode,' allowing players to compete against each other and earn points for correct answers. It provides an enjoyable way to enhance math skills by playing with friends or your children.
+
 ✅ The application allows you to learn multiplication, division, addition and subtraction.
+
 ✅ The app comes with an uncomplicated and user-friendly interface.
+
 
 🗯️ Feedback Welcome:
 We appreciate your feedback! Your suggestions and comments are highly valued as we strive to continually improve the app for an even more enriching learning experience.
